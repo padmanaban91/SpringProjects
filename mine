@@ -1,0 +1,40 @@
+
+data hiding abstraction
+polymorphism
+	runtime - overriding
+	compiletime - overloading
+inheritance
+	why multiple not supported
+try catch
+return without finally - system.exit
+throw vs throws
+
+collection
+arraylist - when -
+,linkedlist - when - 
+comparator, comparable
+
+spring
+bean defn config
+jdbctemplate methods
+
+mvc flow arch
+
+hibernate
+why hibernate
+session vs sessionfactory
+hibernat cfg config
+hibernate mapping config
+mapping
+interfaces in hibernate - session,sessionfactory,criteria......
+methods in session
+
+asp
+why string immutable
+thread wait vs sleep
+
+collection
+loop thru hashmap - list iterator for keyset
+
+spring 
+singleton
